@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact: **I probably read too many fortune cookies.**
 
-- 🔭 I’m currently working on **a tarot reader journal... thing. It's a work in progress.**
+- 🔭 I’m currently working on **a chrome extension to add RNG to online shopping for people who can't decide whether or not to go through with purchases.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
